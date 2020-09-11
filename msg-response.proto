@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 package libresp;
-option go_package = "salangid/libresp";
+option go_package = "github.com/pku-hit/libresp";
 
 import "google/protobuf/any.proto";
 
